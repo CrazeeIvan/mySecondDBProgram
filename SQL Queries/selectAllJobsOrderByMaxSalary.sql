@@ -1,0 +1,1 @@
+﻿SELECT * FROM JOBS ORDER BY Max_Salary ASC;
